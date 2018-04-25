@@ -2,7 +2,7 @@
 A collection of simple examples for RxJS operators
 
 ## About
-This is intended to accompony the Udemy Course RxJS Operators (2018, Code Whisperer Enterprises), found here [https://www.udemy.com/rxjs-operators/?couponCode=OPERATORS-100](https://www.udemy.com/rxjs-operators), however it can be useful for all learners.
+This is intended to accompony the Udemy Course RxJS Operators (2018, Code Whisperer Enterprises), found here [https://www.udemy.com/rxjs-operators](https://www.udemy.com/rxjs-operators/?couponCode=OPERATORS-100), however it can be useful for all learners.
 
 ## Getting Started
 After cloning the repository, install dependencies with `npm install.` Install babel-cli globablly with `npm install -g babel-cli`
